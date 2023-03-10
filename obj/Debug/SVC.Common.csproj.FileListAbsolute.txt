@@ -1,0 +1,6 @@
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\bin\Debug\SVC.Common.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\bin\Debug\SVC.Common.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\obj\Debug\SVC.Common.csproj.CoreCompileInputs.cache
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\obj\Debug\SVC.Common.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\obj\Debug\SVC.Common.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.Common\obj\Debug\SVC.Common.csprojResolveAssemblyReference.cache

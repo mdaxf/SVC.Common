@@ -1,0 +1,10 @@
+C:\working\MQTT\SVC.MessageReceiver\SVC.Com.Logger\obj\Debug\SVC.Logger.csproj.CoreCompileInputs.cache
+C:\working\MQTT\SVC.MessageReceiver\SVC.Com.Logger\bin\Debug\SVC.Logger.SVCLogger.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Com.Logger\bin\Debug\SVC.Logger.SVCLogger.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.Com.Logger\obj\Debug\SVC.Logger.SVCLogger.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Com.Logger\obj\Debug\SVC.Logger.SVCLogger.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.Logger\bin\Debug\SVC.Logger.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Logger\bin\Debug\SVC.Logger.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.Logger\obj\Debug\SVC.Logger.csproj.CoreCompileInputs.cache
+C:\working\MQTT\SVC.MessageReceiver\SVC.Logger\obj\Debug\SVC.Logger.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.Logger\obj\Debug\SVC.Logger.pdb
